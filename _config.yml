@@ -16,10 +16,8 @@
 title: Minimal
 email: blog@minimal.com
 description: "Este é um blog minimalista criado para aprender como funciona essa ferramenta linda que é o Jekyll."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: minimal_twitter
-github_username:  minimal_github
+baseurl: "/minimal-blog" # the subpath of your site, e.g. /blog
+url: "https://kellerkichel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
